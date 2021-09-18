@@ -163,10 +163,54 @@ html, body {
     box-shadow: inset 0px 0px 15px rgba(255, 104, 80, 0.5);
     border-radius: 10px
 }
-.tag>div {
+
+.tag1 {
+    background: radial-gradient(114.56% 605.91% at 0% 0%, #833838 0%, #260E16 100%);
+    box-shadow: inset 0px 0px 15px rgba(255, 104, 80, 0.5);
+    border-radius: 10px
+}
+
+.tag2 {
+    background: radial-gradient(114.93% 676.32% at 0% 0%, #67379E 0%, #151535 100%);
+    box-shadow: inset 0px 0px 15px rgba(148, 68, 233, 0.85);
+    border-radius: 10px
+}
+
+.tag3 {
+    background: radial-gradient(100% 606.48% at 0% 0%, #853C52 0%, #2B121A 100%);
+    box-shadow: inset 0px 0px 15px #BB5674;
+    border-radius: 10px
+}
+
+.tag4 {
+    background: radial-gradient(98.18% 595.46% at 0% 0%, #74328F 0%, #33173F 100%);
+    box-shadow: inset 0px 0px 15px rgba(209, 96, 255, 0.5);
+    border-radius: 10px
+}
+
+.tag5 {
+    background: radial-gradient(100% 606.48% at 0% 0%, #843181 0%, #32112F 100%);
+    box-shadow: inset 0px 0px 15px rgba(255, 113, 204, 0.5);
+    border-radius: 10px
+}
+
+.tag6 {
+    background: radial-gradient(100% 606.48% at 0% 0%, #A24399 0%, #341231 100%);
+    box-shadow: inset 0px 0px 15px rgba(255, 90, 237, 0.5);
+    border-radius: 10px
+}
+
+.tag7 {
+    background: radial-gradient(100% 606.48% at 0% 0%, #A24399 0%, #341231 100%);
+    box-shadow: inset 0px 0px 15px rgba(255, 90, 237, 0.5);
+    border-radius: 10px
+}
+
+.tag > div {
     display: flex;
 }
-.tag>div>img {
+
+.tag > div > img {
     margin-right: 5px;
 }
 
